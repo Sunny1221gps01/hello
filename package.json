@@ -1,0 +1,23 @@
+{
+  "name": "hellosunny",
+  "versioni": "1.0.0",
+  "description": "iapp Hello to publish a node package to npmjs.com",
+  "main": "src/hello.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Sunny1221gps01/hello.git"
+  },
+  "keywords": [
+    "npm",
+    "Hello",
+    "iapp"
+  ],
+  "author": "sunny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sunny1221gps01/hello/issues"
+  },
+  "homepage": "https://github.com/Sunny1221gps01/hello",
+  "devDependencies": {}
+}
